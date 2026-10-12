@@ -1,0 +1,15 @@
+body {
+    background: #f6f204;
+    padding: 50px;
+}
+
+h1,
+h2,
+h3 {
+    color: #a7cfca;
+    font-family: sans-serif;
+}
+
+img {
+    width: 250px;
+}
