@@ -24,7 +24,7 @@ $("#needy-button").click( function(){
 
     //$("body").append(" <img width='50' src='" +colors[count-1] +".jpg'>" );
 
-    if ( (count >= 16 ) { $("#needy-button").after("<p>my mood is... agitated </p>");  }
+    if (count >= 16) { $("#needy-button").after("<p>my mood is... agitated </p>");  }
 
      else if( count >= 13 ) { $("#needy-button").after("<p>my mood is... really agitated </p>");  }
 
